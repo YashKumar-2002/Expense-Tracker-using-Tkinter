@@ -1,2 +1,8 @@
 # Expense-Tracker-using-Tkinter
-Developed an Expense Tracker GUI application using Tkinter in Python to manage personal finances. The program allows users to input received and spent amounts, maintains a transaction history, and dynamically updates total received, total spent, and remaining balance.
+(Open Readme file in code view)
+Run the code in Jupyter Notebook.
+Install tkinter in Python by using following steps.
+Step 1: Open Terminal
+Step 2: Write "pip install tkinter" and press enter.
+Step 3: Wait until the installation is complete.
+Step 4: After completing the installation, exit the terminal by entering the "exit" command.
